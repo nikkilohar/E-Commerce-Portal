@@ -38,7 +38,3 @@ I developed this project as part of my MCA final-year submission. It was created
 10. Create a new database named: **electric-shop**.
 11. Click **Import**, then select and import the file `electric-shop.sql` from the SQL folder.
 12. In your browser, go to: [http://localhost/E_Commerce_Portal](http://localhost/E-Commerce Portal).
-
----
-
-Would you like me to make it more concise (1–2 short paragraphs) for your GitHub **project description section** instead of the full README version?
